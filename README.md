@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devinsightful" alt="devinsightful" /></a> </p>
 
-- 💬 Ask me about **React,**
+- 💬 Ask me about **React,Nodejs,Vuejs,Expressjs,Nextjs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
